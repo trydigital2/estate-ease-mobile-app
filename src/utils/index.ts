@@ -4,3 +4,4 @@ export * from "./mortgage";
 export * from "./investment";
 export * from "./neighborhood";
 export * from "./amortization";
+export * from "./propertyAppreciation";
