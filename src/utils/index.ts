@@ -5,4 +5,6 @@ export * from "./investment";
 export * from "./neighborhood";
 export * from "./amortization";
 export * from "./closingCostEngine";
+export * from "./propertyAppreciation";
+export * from "./rentalCashFlowEngine";
 
