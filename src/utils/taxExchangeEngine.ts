@@ -71,3 +71,4 @@ export function calculateSection1031Exchange(inputs: Section1031Inputs): Section
     closingDeadlineDays: 180,
   };
 }
+
